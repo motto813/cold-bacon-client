@@ -63,5 +63,11 @@ export default StyleSheet.create({
     textAlign: 'center',
     fontFamily: 'Zilla Slab Highlight',
     fontSize: 20,
+  },
+  loadingView: {
+    marginTop: Dimensions.get('window').height / 1.03
+  },
+  loadingText: {
+    fontFamily: 'Faster One'
   }
 })
