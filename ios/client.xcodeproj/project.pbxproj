@@ -14,6 +14,7 @@
 		00C302EA1ABCBA2D00DB3ED1 /* libRCTVibration.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 00C302E41ABCB9EE00DB3ED1 /* libRCTVibration.a */; };
 		00E356F31AD99517003FC87E /* clientTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* clientTests.m */; };
 		091AC0D9D69240E3813E2FD2 /* MontserratSubrayada-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 39CB01A44CF044469EA9394A /* MontserratSubrayada-Bold.ttf */; };
+		093B1FCA1F71AD5300263091 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		0A1AF3A09AF34172AA96497A /* Lobster-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1246E271B3F641938777891B /* Lobster-Regular.ttf */; };
 		1101307A8EFA4D708C239BE2 /* Oswald-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 54A01870973D421582C2EF55 /* Oswald-Regular.ttf */; };
 		11778FCE71004174A07A5501 /* RobotoSlab-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7DDAA10C12154894B60046F8 /* RobotoSlab-Light.ttf */; };
@@ -33,7 +34,6 @@
 		27897CACD22A4CDD877DE11A /* FasterOne-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B51817B150B14368A093C40F /* FasterOne-Regular.ttf */; };
 		2CA746DE7AE9469FADC771A7 /* Merriweather-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7BD77250B90540F0BA7BCC4E /* Merriweather-Italic.ttf */; };
 		2D02E4BC1E0B4A80006451C7 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
-		2D02E4BD1E0B4A84006451C7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		2D02E4BF1E0B4AB3006451C7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		2D02E4C21E0B4AEC006451C7 /* libRCTAnimation.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5E9157351DD0AC6500FF2AA8 /* libRCTAnimation.a */; };
 		2D02E4C31E0B4AEC006451C7 /* libRCTImage-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3DAD3E841DF850E9000B6D8A /* libRCTImage-tvOS.a */; };
@@ -1140,7 +1140,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2D02E4BD1E0B4A84006451C7 /* Images.xcassets in Resources */,
+				093B1FCA1F71AD5300263091 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
