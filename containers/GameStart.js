@@ -39,8 +39,8 @@ export default class GameStart extends Component {
 	render() {
 		if (this.state.isLoading) {
 			return (
-				<View>
-					<Text>Loading...</Text>
+				<View style={styles.loadingView}>
+					<Animatable.Text animation="flash" style={styles.loadingText} duration={5000} iterationCount={3}>Loading...</Animatable.Text>
 				</View>
 			)
 		}
