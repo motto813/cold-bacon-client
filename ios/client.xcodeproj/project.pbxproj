@@ -664,6 +664,7 @@
 				00E356EF1AD99517003FC87E /* clientTests */,
 				83CBBA001A601CBA00E9B192 /* Products */,
 				308168C14F5F406283FAE520 /* Resources */,
+				DABE272E1F74BAE4006326B7 /* Recovered References */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -678,6 +679,14 @@
 				2D02E4901E0B4A5D006451C7 /* client-tvOSTests.xctest */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		DABE272E1F74BAE4006326B7 /* Recovered References */ = {
+			isa = PBXGroup;
+			children = (
+				701A8CC55C4046E381C0610C /* libRNSVG.a */,
+			);
+			name = "Recovered References";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
